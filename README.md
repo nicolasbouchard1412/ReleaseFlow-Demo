@@ -1,3 +1,3 @@
 # ReleaseFlow-Demo
 
-# Release Commit 1
+Release Commit 1
